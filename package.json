@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-va-gov-forms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use the VA Forms API to search for VA forms, get the form's PDF link and metadata, and check for new versions",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-va-gov-forms",

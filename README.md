@@ -55,7 +55,7 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Forms | GET Returns all VA Forms and their last revision date, GET Find form by form name |
+| Forms | Get returns all va forms and their last revision date, Get find form by form name |
 
 ---
 
